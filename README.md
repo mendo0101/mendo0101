@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mendo0101
+- 👀 I’m interested in developing websites
+- 🌱 I’m currently learning Javascript, HTML, CSS, PHP and Pyhton
